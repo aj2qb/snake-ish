@@ -1,4 +1,4 @@
-# snake-ish
+# snake++
 
 ## Game Development Information  
 This game was developed in Unity using C#. Linked game was built in Unity using WebGL. 
