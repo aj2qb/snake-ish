@@ -1,4 +1,5 @@
 # snake++
+This game is similar to Snake, but with a twist.  
 
 ## Game Development Information  
 This game was developed in Unity using C#. Linked game was built in Unity using WebGL. 
