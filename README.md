@@ -1,5 +1,8 @@
 # snake-ish
 
+## Game Development Information  
+This game was developed in Unity using C# and the linked game was created in Unity using WebGL. 
+
 ## Play the Game
 https://aj2qb.github.io/snake-ish/ (Note: It's is recommended to play in full screen mode).
 ## Credits
